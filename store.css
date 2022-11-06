@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+:root{
+    --bacground-itens: #262c61;
+    --text: #fff;
+    --blue-light: #61e7fb;
+}
+
+
+
+/* header--------------------- */
+
+
+/* toltip ---------------------*/
+
+
+/* scrool ------------------------------*/
+
+
+/* grid----------------------------- */
+
+
+/* imagens ------------------------------ */
+
+
+/* textos----------------- */
+
+
+/* item 04 ----------------------------------- */
+
+
+/* footer---------------------------------- */
+
+
+/* talet------------------------------ */
+
+@media (max-width: 1200px) {
+ 
+}
+
+/* mobile------------------------ */
+
+@media (max-width: 750px){
+
+}
+
